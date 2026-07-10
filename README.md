@@ -50,7 +50,6 @@ Sou estudante de **Ciência de Dados** (2º semestre) e estagiário na área de 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/cauã-cruz-76375b30a)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:cauamartinscruzp@gmail.com)
-[![Site](https://luisa-fisioterapeuta.netlify.app/)
 
 ---
 
